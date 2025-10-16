@@ -4,10 +4,10 @@
 - 🌱 I have experience with C# and C++, as well as Unreal and Unity Engines
 - 🌐 I have experience with Web Development and Javascript
 - 💞️ I’m am looking to collaborate on anything that lets me learn new things and new coding techniques
-- 📫 How to reach me ...  you can email me here stephen@sterling-dev.com
+- 📫 How to reach me ...  you can email me here `stephen@sterling-dev.com`
 
 You can also visit my website and take a closer look at my core developing skills.
-Check it out: [Here](https://sterling-dev.com/)
+Check it out: <a href="https://sterling-dev.com/" target="_blank">Here</a>
 
 <!---
 ssterling9928/ssterling9928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
