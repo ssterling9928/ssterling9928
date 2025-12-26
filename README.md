@@ -30,10 +30,13 @@ Whether I’m working with C++ systems in **Unreal Engine**, building cylindrica
 #### 🎮 Game & Software Development
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?logo=unreal-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VS-5C2D91?logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VS%20Code-5C2D91?logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?logo=jetbrains&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000)
 
 #### ☁️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -42,14 +45,18 @@ Whether I’m working with C++ systems in **Unreal Engine**, building cylindrica
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 
 #### 🌐 Web Development
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+
 
 ---
 
