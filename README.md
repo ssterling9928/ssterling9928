@@ -71,7 +71,7 @@ Whether I’m working with C++ systems in **Unreal Engine**, building cylindrica
 
 ### 🧩 Projects & Experiments
 
-- 🧟‍♂️ **Zombies (Unreal Engine 5.4)** — AI-driven zombie survival system in C++  
+- 🧟‍♂️ **Zombies (Unreal Engine 5.7)** — AI-driven zombie survival system in C++  
 - 🌀 **Circle Jump (Unity 6.2)** — Physics-based cylindrical world platformer  
 - 💻 **Sterling Dev Website** — [sterling-dev.com](https://sterling-dev.com) built with Astro + Tailwind  
 - 📦 **Synology Docker Lab** — Custom home-lab stack with Cloudflare Tunnels & Grafana Observability
