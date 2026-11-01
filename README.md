@@ -60,16 +60,7 @@ Whether I’m working with C++ systems in **Unreal Engine**, building cylindrica
 
 ---
 
-### 📊 GitHub Highlights
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssterling9928&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssterling9928&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### Featured Projects
+### 🗃️ Featured Projects
 
 - **HomeLab GitOps:** A self-hosted infrastructure stack managed with GitOps practices, using Portainer for container orchestration and Forgejo for version control. [View repository →](https://github.com/ssterling9928/homelab-showcase)
 - **Zombies (Unreal Engine 5.7):** A zombie survival game with AI-driven enemy behavior, built in C++. [View repository →](https://github.com/ssterling9928/Zombies)
