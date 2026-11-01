@@ -69,12 +69,12 @@ Whether I’m working with C++ systems in **Unreal Engine**, building cylindrica
 
 ---
 
-### 🧩 Projects & Experiments
+### Featured Projects
 
-- 🧟‍♂️ **Zombies (Unreal Engine 5.7)** — AI-driven zombie survival system in C++  
-- 🌀 **Circle Jump (Unity 6.2)** — Physics-based cylindrical world platformer  
-- 💻 **Sterling Dev Website** — [sterling-dev.com](https://sterling-dev.com) built with Astro + Tailwind  
-- 📦 **Synology Docker Lab** — Custom home-lab stack with Cloudflare Tunnels & Grafana Observability
+- **HomeLab GitOps:** A self-hosted infrastructure stack managed with GitOps practices, using Portainer for container orchestration and Forgejo for version control. [View repository →](https://github.com/ssterling9928/homelab-showcase)
+- **Zombies (Unreal Engine 5.7):** A zombie survival game with AI-driven enemy behavior, built in C++. [View repository →](https://github.com/ssterling9928/Zombies)
+- **Server Monitoring Dashboard:** A custom dashboard that shows real-time server health and service status. [View repository →](https://github.com/ssterling9928/dashboard)
+- **Sterling Dev Website:** My personal portfolio site, built with Astro and Tailwind CSS. [Visit sterling-dev.com →](https://sterling-dev.com)
 
 ---
 
